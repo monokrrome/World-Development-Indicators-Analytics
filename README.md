@@ -1,1 +1,4 @@
 # World-Development-Indicators-Analytics
+
+The World Development Indicator Analytics project processes the large World Development Indicators (WDI) dataset hosted by the World Bank using Databricks(Community Edition). A multidimensional analysis on economic, social, environmental, and governance dimensions for 217 economies is conducted, with special focus on income inequality (GINI index), literacy, economic growth patterns, health outcomes, and trade patterns. The results of the project is available through a publicly accessible Databricks notebook.
+
